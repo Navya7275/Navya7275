@@ -58,7 +58,6 @@ Building things at the intersection of deep learning and visual computing.
 | [**Neural Style Transfer Studio**](https://github.com/Navya7275/AI-Neural-Style-Transfer) | Depth-aware artistic style transfer using VGG-19 + MiDaS. Multi-model CV pipeline with spatially-varying stylisation based on monocular depth estimation. | PyTorch, MiDaS, Gradio |
 | [**Handwritten Digit Recognition**](https://github.com/Navya7275/Handwritten-Digit-Character-Recognition) | Advanced CNN with residual blocks, ensemble training, and a real-time OpenCV drawing interface for live digit prediction with confidence visualisation. | TensorFlow/Keras, OpenCV |
 | [**Signature Fraud Detection**](https://github.com/Navya7275/Adaptive-Signature-Fraud-Detection) | Adaptive system for detecting forged signatures using image processing and machine learning techniques. | Python, CV |
-| [**Stuttering Voice Detection**](https://github.com/Navya7275/stutter-rake) | Audio analysis pipeline for detecting stuttering patterns in speech using PyTorch and the LibriStutter dataset. | PyTorch, Audio ML |
 | [**Mammal Extinction Predictor**](https://github.com/Navya7275/mammal_extinction_risk) | IUCN Red List risk prediction using ANN, Random Forest, XGBoost with SHAP explainability. Streamlit dashboard for interactive exploration. | PyTorch, XGBoost, Streamlit |
 | [**Grammar & Spell Checker**](https://github.com/Navya7275/Grammar-Correction-and-Spelling-Checker) | Flask web app using LanguageTool and Grammarly's CoEdit model for grammar correction with PDF/PPTX support. | Flask, Transformers |
 
