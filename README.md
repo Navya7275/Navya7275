@@ -45,6 +45,7 @@ Building things at the intersection of deep learning and visual computing.
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23F97316.svg?style=for-the-badge&logo=gradio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +57,7 @@ Building things at the intersection of deep learning and visual computing.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Neural Style Transfer Studio**](https://github.com/Navya7275/AI-Neural-Style-Transfer) | Depth-aware artistic style transfer using VGG-19 + MiDaS. Multi-model CV pipeline with spatially-varying stylisation based on monocular depth estimation. | PyTorch, MiDaS, Gradio |
-| [**Handwritten Digit Recognition**](https://github.com/Navya7275/Handwritten-Digit-Character-Recognition) | Advanced CNN with residual blocks, ensemble training, and a real-time OpenCV drawing interface for live digit prediction with confidence visualisation. | TensorFlow/Keras, OpenCV |
+| [**Handwritten Character Recognition**](https://github.com/Navya7275/Handwritten-Digit-Character-Recognition) | 47-class EMNIST recognition with an AdvancedCNN — single-character and full **word/sentence** recognition via character segmentation + autocorrect. FastAPI REST API, Streamlit drawing UI, Docker, and CI/CD. | PyTorch, FastAPI, Streamlit, OpenCV |
 | [**Signature Fraud Detection**](https://github.com/Navya7275/Adaptive-Signature-Fraud-Detection) | Adaptive system for detecting forged signatures using image processing and machine learning techniques. | Python, CV |
 | [**Mammal Extinction Predictor**](https://github.com/Navya7275/mammal_extinction_risk) | IUCN Red List risk prediction using ANN, Random Forest, XGBoost with SHAP explainability. Streamlit dashboard for interactive exploration. | PyTorch, XGBoost, Streamlit |
 | [**Grammar & Spell Checker**](https://github.com/Navya7275/Grammar-Correction-and-Spelling-Checker) | Flask web app using LanguageTool and Grammarly's CoEdit model for grammar correction with PDF/PPTX support. | Flask, Transformers |
@@ -69,7 +70,7 @@ Building things at the intersection of deep learning and visual computing.
 
 ![](https://github-readme-stats.vercel.app/api?username=Navya7275&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Navya7275&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Navya7275&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya7275&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
